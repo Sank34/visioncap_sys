@@ -1,0 +1,4 @@
+1. Add IMU integration
+2. Add stable checking for TTS
+3. Run TTS on a separated thread
+4. Add stability to Direction
